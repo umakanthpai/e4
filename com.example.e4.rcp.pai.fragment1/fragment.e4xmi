@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="ASCII"?>
+<fragment:ModelFragments xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:basic="http://www.eclipse.org/ui/2010/UIModel/application/ui/basic" xmlns:fragment="http://www.eclipse.org/ui/2010/UIModel/fragment" xmi:id="_blbZIDk6EeWq0YG8Wua_kw">
+  <fragments xsi:type="fragment:StringModelFragment" xmi:id="_c5EyUDk6EeWq0YG8Wua_kw" featurename="children" parentElementId="com.example.e4.rcp.pai.todo.partstack.0">
+    <elements xsi:type="basic:Part" xmi:id="_f0CHkDk6EeWq0YG8Wua_kw" elementId="com.example.e4.rcp.pai.fragment1.part.fragment" label="Fragment" tooltip="Fragment"/>
+  </fragments>
+</fragment:ModelFragments>
